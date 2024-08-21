@@ -1,0 +1,6 @@
+if class A has temp variable
+
+and B and C is derived from A
+ 
+and now if you want to create class M with multiple inheritance 
+since both the class B and C has temp variable that's the issue
